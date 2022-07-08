@@ -1,0 +1,1160 @@
+Uri: https://fonts.googleapis.com/css?family=Muli:%26subset%3D|Muli:%26subset%3D|Muli:%26subset%3D|Muli:%26subset%3D|Source+Sans+Pro:normal%26subset%3D
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Source+Sans+Pro:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=6.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=6.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/muli/v27/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\muli\v27\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v23/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\robotoslab\v23\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18E.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklyds18E.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklyds18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdr.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdr.ttf
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdr.ttf
+Content Type: font/ttf
+
+Uri: https://victorthemes.com/themes/windfall/wp-content/uploads/2019/04/icon2@2x.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\themes\windfall\wp-content\uploads\2019\04\icon2@2x.png
+Content Type: image/png
+
+Uri: https://victorthemes.com/themes/windfall/wp-content/uploads/2019/04/icon3@2x.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\themes\windfall\wp-content\uploads\2019\04\icon3@2x.png
+Content Type: image/png
+
+Uri: https://victorthemes.com/themes/windfall/wp-content/uploads/2019/04/slide1.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\themes\windfall\wp-content\uploads\2019\04\slide1.png
+Content Type: image/png
+
+Uri: https://www.google.com/recaptcha/api.js?render=6LfpyIsUAAAAAFV6cW38gsktPzrvVrrWMmZqlgx_&ver=3.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.skaelec.com/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/climatisation-et-desenfumage/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\climatisation-et-desenfumage\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/comments/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.skaelec.com/contactez-nous/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\contactez-nous\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/courant-faible-2/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\courant-faible-2\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/domotique-2/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\domotique-2\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/electricite-industriel-et-batiment-2/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\electricite-industriel-et-batiment-2\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\feed\index.htm
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/plomberie-chauffage-sanitaire/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\plomberie-chauffage-sanitaire\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/service/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/service/climatisation/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\climatisation\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/service/climatisation/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\climatisation\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.skaelec.com/service/detection-et-alarme-incendie/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\detection-et-alarme-incendie\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/service/detection-et-alarme-incendie/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\detection-et-alarme-incendie\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.skaelec.com/service/electricite-generale-et-lindustrie-du-batiment/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\electricite-generale-et-lindustrie-du-batiment\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/service/electricite-generale-et-lindustrie-du-batiment/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\electricite-generale-et-lindustrie-du-batiment\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.skaelec.com/service/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.skaelec.com/service/travaux-de-plomberie/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\travaux-de-plomberie\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/service/travaux-de-plomberie/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\travaux-de-plomberie\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.skaelec.com/service/video-surveillance/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\video-surveillance\index.htm
+Content Type: text/html
+
+Uri: https://www.skaelec.com/service/video-surveillance/feed/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\service\video-surveillance\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/03806.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\03806.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/0fef6.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\0fef6.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/29e8b.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\29e8b.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/2a99e.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\2a99e.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/39f3c.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\39f3c.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/3e143.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\3e143.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/44c1a.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\44c1a.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/4f8fd.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\4f8fd.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/59a32.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\59a32.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/5a51b.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\5a51b.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/5d111.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\5d111.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/818c0.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\818c0.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/908ca.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\908ca.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/947aa.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\947aa.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/a5ff7.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\a5ff7.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/ab881.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\ab881.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/c31ef.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\c31ef.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/def29.js?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\def29.js
+Content Type: application/x-javascript
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/e6689.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\e6689.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/cache/minify/fa9d9.css?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\cache\minify\fa9d9.css
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.9.1
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.9.1&x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.9.1
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.9.1&x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.9.1
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.9.1&x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0&x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0&x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://www.skaelec.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0&x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-arrows-10.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-arrows-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-arrows-10.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-arrows-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-arrows-10.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-arrows-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-arrows-10.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-arrows-10.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-arrows-10.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-arrows-10.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-10.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-10.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-10.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-10.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-10.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-10.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-10.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-elaboration-10.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-elaboration-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-elaboration-10.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-elaboration-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-elaboration-10.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-elaboration-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-elaboration-10.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-elaboration-10.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-basic-elaboration-10.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-basic-elaboration-10.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-ecommerce-10.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-ecommerce-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-ecommerce-10.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-ecommerce-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-ecommerce-10.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-ecommerce-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-ecommerce-10.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-ecommerce-10.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-ecommerce-10.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-ecommerce-10.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-music-10.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-music-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-music-10.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-music-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-music-10.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-music-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-music-10.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-music-10.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-music-10.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-music-10.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-software-10.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-software-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-software-10.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-software-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-software-10.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-software-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-software-10.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-software-10.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-software-10.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-software-10.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-weather-10.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-weather-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-weather-10.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-weather-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-weather-10.svg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-weather-10.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-weather-10.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-weather-10.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/linea-weather-10.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\linea-weather-10.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/themify.eot?
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/themify.eot?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/themify.svg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/themify.ttf?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/fonts/themify.woff?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/icons/icon19@3x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\icons\icon19@3x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/icons/icon20@3x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\icons\icon20@3x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/icons/icon30@3x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\icons\icon30@3x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/icons/icon31@3x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\icons\icon31@3x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/icons/icon32@3x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\icons\icon32@3x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/icons/icon76@3x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\icons\icon76@3x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/icons/search-icon.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\icons\search-icon.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/map.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\map.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/assets/images/wpcf7-loader.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\assets\images\wpcf7-loader.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/themes/windfall/inc/dynamic-style.php?ver=1.3.1
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\themes\windfall\inc\dynamic-style.php
+Content Type: text/css
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/04/blog7-370x240.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\04\blog7-370x240.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/04/WhatsApp-Image-2021-01-19-at-14.28.18-380x317.jpeg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\04\WhatsApp-Image-2021-01-19-at-14.28.18-380x317.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/04/WhatsApp-Image-2021-01-19-at-14.28.18.jpeg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\04\WhatsApp-Image-2021-01-19-at-14.28.18.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023-1024x576.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023-300x169.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-300x169-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023-300x169.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023-380x317.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-380x317.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023-600x338.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-600x338.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023-768x432.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023-828x490.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-828x490.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0023.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0023.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024-1024x576.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024-300x169.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024-300x169-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024-300x169.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024-380x317.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024-380x317.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024-600x338.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024-600x338.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024-768x432.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG-20200114-WA0024.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG-20200114-WA0024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-1024x768.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-1536x1152.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-2048x1536.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-300x225.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-300x225-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-300x225.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-768x576.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-scaled-380x317.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-scaled-380x317.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-scaled-600x450.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-scaled-600x450.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-scaled-828x490.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-scaled-828x490.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190626_105331-scaled.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190626_105331-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190709_104549-scaled-380x317.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190709_104549-scaled-380x317.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20190709_104549-scaled.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20190709_104549-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/06/IMG_20200517_142939-scaled-828x490.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\06\IMG_20200517_142939-scaled-828x490.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2019/09/home2-slide2-1.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2019\09\home2-slide2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/climatisation-maintenance-bon-1024x623-1-300x183.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\climatisation-maintenance-bon-1024x623-1-300x183.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/climatisation-maintenance-bon-1024x623-1-600x365.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\climatisation-maintenance-bon-1024x623-1-600x365.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/climatisation-maintenance-bon-1024x623-1-768x467.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\climatisation-maintenance-bon-1024x623-1-768x467-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/climatisation-maintenance-bon-1024x623-1-768x467.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\climatisation-maintenance-bon-1024x623-1-768x467.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/climatisation-maintenance-bon-1024x623-1.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\climatisation-maintenance-bon-1024x623-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Electrique_et_Automatisme_industriel-600x400-1.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Electrique_et_Automatisme_industriel-600x400-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/installationrealisationinterclim-828x490.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\installationrealisationinterclim-828x490.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-100x100.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-100x100.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-1024x1024.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-1024x1024.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-150x150.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-150x150.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-300x300.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-300x300-1.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-300x300.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-300x300.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-370x240.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-370x240.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-600x600.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-600x600.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-66x66.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-66x66.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-768x768.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1-768x768.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1-1-1-1.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1-1-1-1.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-100x100.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-1024x1024.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-150x150.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-300x300.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-300x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-300x300.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-370x240.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-370x240.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-600x600.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-66x66.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-66x66.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo-768x768.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Noir-et-Orange-Simple-Internet-Logo.jpg
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Noir-et-Orange-Simple-Internet-Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Sans-titre-12-1-370x240.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Sans-titre-12-1-370x240.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/Sans-titre-29-370x240.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\Sans-titre-29-370x240.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/shutterstock_584812870-1-458x254-1.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\shutterstock_584812870-1-458x254-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2020/12/unnamed.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2020\12\unnamed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/cropped-Untitled-design-30-180x180.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\cropped-Untitled-design-30-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/cropped-Untitled-design-30-192x192.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\cropped-Untitled-design-30-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/cropped-Untitled-design-30-32x32.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\cropped-Untitled-design-30-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/icon4@2x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\icon4@2x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/icon5@2x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\icon5@2x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/icon6@2x.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\icon6@2x.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/service1-370x240.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\service1-370x240.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/service1.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\service1.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/service2.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\service2.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/service3.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\service3.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/slide3.png
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\slide3.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-13.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-14.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-15.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-16.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-17.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-18.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-19.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design-27.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design-27.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled-design.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled-design.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__10_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__10_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__11_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__11_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__12_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__12_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__1_-removebg-preview-1.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__1_-removebg-preview-1.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__2_-removebg-preview-1.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__2_-removebg-preview-1.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__3_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__3_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__4_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__4_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__6_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__6_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__7_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__7_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__8_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__8_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/01/Untitled_design__9_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\01\Untitled_design__9_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-17.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-17.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-20.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-20.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-22.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-22.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-23.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-23.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-24.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-24.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-25.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-25.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-26.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-26.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled-design-27.jpg?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled-design-27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled_design__20_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled_design__20_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled_design__21_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled_design__21_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled_design__22_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled_design__22_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled_design__23_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled_design__23_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled_design__24_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled_design__24_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled_design__25_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled_design__25_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-content/uploads/2021/02/Untitled_design__26_-removebg-preview.png?x26167
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-content\uploads\2021\02\Untitled_design__26_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://www.skaelec.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fclimatisation-et-desenfumage%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fclimatisation-et-desenfumage%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fcontactez-nous%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fcontactez-nous%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fcourant-faible-2%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fcourant-faible-2%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fdomotique-2%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fdomotique-2%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Felectricite-industriel-et-batiment-2%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Felectricite-industriel-et-batiment-2%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fplomberie-chauffage-sanitaire%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fplomberie-chauffage-sanitaire%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Fclimatisation%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Fclimatisation%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Fdetection-et-alarme-incendie%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Fdetection-et-alarme-incendie%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Felectricite-generale-et-lindustrie-du-batiment%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Felectricite-generale-et-lindustrie-du-batiment%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Ftravaux-de-plomberie%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Ftravaux-de-plomberie%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Fvideo-surveillance%2F
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.skaelec.com%2Fservice%2Fvideo-surveillance%2F&format=xml
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://www.skaelec.com/wp-json/wp/v2/pages/185
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\wp\v2\pages\185
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/wp/v2/pages/2598
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\wp\v2\pages\2598
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/wp/v2/pages/266
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\wp\v2\pages\266
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/wp/v2/pages/2880
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\wp\v2\pages\2880
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/wp/v2/pages/2887
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\wp\v2\pages\2887
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/wp/v2/pages/377
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\wp\v2\pages\377
+Content Type: application/json
+
+Uri: https://www.skaelec.com/wp-json/wp/v2/pages/448
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\wp-json\wp\v2\pages\448
+Content Type: application/json
+
+Uri: https://www.skaelec.com/xmlrpc.php?rsd
+File Name: C:\Users\Otmanee7\Documents\GitHub\electricity-website\www.skaelec.com\xmlrpc.php
+Content Type: text/xml
+

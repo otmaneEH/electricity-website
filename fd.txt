@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+exemples https://www.abda-energie.ma/
+https://www.allozain.com/
+https://superelectro.ma/ar/
+
+
+wordpress thesms electro 
+https://themeforest.net/item/cooltek-air-conditioning-services-wordpress-theme/25053503
