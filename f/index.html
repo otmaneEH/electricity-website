@@ -1,268 +1,443 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <!-- basic -->
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <!-- mobile metas -->
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-      <!-- site metas -->
-      <title>Gravitao</title>
-      <meta name="keywords" content="">
-      <meta name="description" content="">
-      <meta name="author" content="">
-      <!-- bootstrap css -->
-      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-      <!-- style css -->
-      <link rel="stylesheet" type="text/css" href="css/style.css">
-      <!-- Responsive-->
-      <link rel="stylesheet" href="css/responsive.css">
-      <!-- fevicon -->
-      <link rel="icon" href="images/fevicon.png" type="image/gif" />
-      <!-- Scrollbar Custom CSS -->
-      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
-      <!-- Tweaks for older IEs-->
-      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-      <!-- owl stylesheets --> 
-      <link rel="stylesheet" href="css/owl.carousel.min.css">
-      <link rel="stylesheet" href="css/owl.theme.default.min.css">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
-   </head>
-   <body>
-      <!-- section header start -->
-      <div class="header_section">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-3">
-                  <div class="logo"><a href="index.html"><img src="images/logo.png"></a></div>
+
+<head>
+   <!-- basic -->
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <!-- mobile metas -->
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+   <!-- site metas -->
+   <title>Gravitao</title>
+   <meta name="keywords" content="">
+   <meta name="description" content="">
+   <meta name="author" content="">
+
+   <!-- bootstrap css -->
+   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+   <!-- style css -->
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+   <!-- Responsive-->
+   <link rel="stylesheet" href="css/responsive.css">
+   <!-- fevicon -->
+   <link rel="icon" href="images/fevicon.png" type="image/gif" />
+   <!-- Scrollbar Custom CSS -->
+   <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+   <!-- Tweaks for older IEs-->
+   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+   <!-- owl stylesheets -->
+   <link rel="stylesheet" href="css/owl.carousel.min.css">
+   <link rel="stylesheet" href="css/owl.theme.default.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+      media="screen">
+   <!-- <link rel="stylesheet" href="css/style.min.css"> -->
+   <!-- smtp cdn -->
+   <script src="https://smtpjs.com/v3/smtp.js"></script>
+</head>
+
+<body>
+   <!-- section header start -->
+   <div class="header_section">
+      <div class="container">
+         <div class="row">
+            <div class="col-md-3">
+               <div class="logo"><a href="index.html"><img src="images/logo.png"></a></div>
+            </div>
+            <div class="col-md-9">
+               <div class="menu_text">
+                  <ul>
+                     <li><a href="index.html">HOME</a></li>
+                     <li><a href="about.html">ABOUT</a></li>
+                     <li><a href="services.html">SERVICES</a></li>
+                     <li><a href="projects.html">PROJECTS</a></li>
+                     <li><a href="contact.html">CONTACT US</a></li>
+                     <li><a href="clients.html">CLIENTS</a></li>
+                     <li><a href="#"><img src="images/search-icon.png"></a></li>
+                     <div id="myNav" class="overlay">
+                        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                        <div class="overlay-content">
+                           <a href="index.html">HOME</a>
+                           <a href="about.html">ABOUT</a>
+                           <a href="services.html">SERVICES</a>
+                           <a href="projects.html">PROJECTS</a>
+                           <a href="contact.html">CONTACT US</a>
+                           <a href="client.html">CLIENTS</a>
+                        </div>
+                     </div>
+                     <span style="font-size:33px;cursor:pointer; color: #ffffff;" onclick="openNav()"><img
+                           src="images/toggle.png" class="toggle_menu"></span>
                </div>
-               <div class="col-md-9">
-                  <div class="menu_text">
-                     <ul>
-                        <li><a href="index.html">HOME</a></li>
-                        <li><a href="about.html">ABOUT</a></li>
-                        <li><a href="services.html">SERVICES</a></li>
-                        <li><a href="projects.html">PROJECTS</a></li>
-                        <li><a href="contact.html">CONTACT US</a></li>
-                        <li><a href="clients.html">CLIENTS</a></li>
-                        <li><a href="#"><img src="images/search-icon.png"></a></li>
-                        <div id="myNav" class="overlay">
-                           <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-                           <div class="overlay-content">
-                              <a href="index.html">HOME</a>
-                              <a href="about.html">ABOUT</a>
-                              <a href="services.html">SERVICES</a>
-                              <a href="projects.html">PROJECTS</a>
-                              <a href="contact.html">CONTACT US</a>
-                              <a href="client.html">CLIENTS</a>
+               </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- section header end -->
+   <!-- banner section start -->
+   <div class="banner_section">
+      <div class="container-fluid">
+         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+               <div class="carousel-item active">
+                  <div class="row">
+                     <div class="col-sm-2">
+                        <div class="round"><img src="images/round-icon.png"></div>
+                        <p class="number_text">02</p>
+                        <div class="line"><img src="images/line.png"></div>
+                        <p class="number_text">02</p>
+                        <div class="round"><img src="images/round-icon.png"></div>
+                     </div>
+                     <div class="col-sm-5">
+                        <div class="taital_main">
+                           <h4 class="construction_text">Dépannage et entretiens Plomberie </h4>
+                           <h3 class="building_text"></h3>
+                           <p class="lorem_text">L’entreprise electro abdelaziz à Marrakech intervient pour la plomberie
+                              de vos sanitaires à Marrakech. Elle réalise l’installation de la plomberie de vos
+                              sanitaires et de ses éléments, mais aussi le dépannage, le débouchage de canalisations, la
+                              réparation de fuites d’eau, et propose ses services pour l’installation de votre
+                              sanibroyeur. </p>
+                           <div class="contact_bt"><a href="#">CONTACT US</a></div>
+                           <div class="get_bt"><a href="#">GET A QUOTE NOW</a></div>
+                        </div>
+                     </div>
+                     <div class="col-sm-5">
+                        <div><img src="images/banner-bg.png"></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item">
+                  <div class="row">
+                     <div class="col-sm-2">
+                        <div class="round"><img src="images/round-icon.png"></div>
+                        <p class="number_text">02</p>
+                        <div class="line"><img src="images/line.png"></div>
+                        <p class="number_text">02</p>
+                        <div class="round"><img src="images/round-icon.png"></div>
+                     </div>
+                     <div class="col-sm-5">
+                        <div class="taital_main">
+                           <h2 class="construction_text">CONSTRUCTION</h2>
+                           <h1 class="building_text">BUILDING</h1>
+                           <p class="lorem_text">L’entreprise electro abdelaziz à Marrakech intervient pour la plomberie
+                              de vos sanitaires à Marrakech. Elle réalise l’installation de la plomberie de vos
+                              sanitaires et de ses éléments, mais aussi le dépannage, le débouchage de canalisations, la
+                              réparation de fuites d’eau, et propose ses services pour l’installation de votre
+                              sanibroyeur. </p>
+                           <div class="contact_bt"><a href="#">CONTACT US</a></div>
+                           <div class="get_bt"><a href="#">GET A QUOTE NOW</a></div>
+                        </div>
+                     </div>
+                     <div class="col-sm-5">
+                        <div><img src="images/banner-bg.png"></div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item">
+                  <div class="row">
+                     <div class="col-sm-2">
+                        <div class="round"><img src="images/round-icon.png"></div>
+                        <p class="number_text">02</p>
+                        <div class="line"><img src="images/line.png"></div>
+                        <p class="number_text">02</p>
+                        <div class="round"><img src="images/round-icon.png"></div>
+                     </div>
+                     <div class="col-sm-5">
+                        <div class="taital_main">
+                           <h2 class="construction_text">CONSTRUCTION</h2>
+                           <h1 class="building_text">BUILDING</h1>
+                           <p class="lorem_text">electricity website
+                              Entreprise electro abdelaziz Travaux sarl GSM; +212 643760060 NOTRE CLIENT RESTERA
+                              TOUJOURS LE ROI * Interventions, Réparation, Dépannage sur tout Travaux de plomberie 7/7j
+                              24h/24 sur Marrakech et Région -Installation et rénovation de salle de bain -Détection et
+                              réparation des fuites -Installation sanitaite -Installation et entretien piscine et
+                              jaccuzi -Chauffage central hmam beldi-SPA -Systéme d'irrigarion et d'arrosage -Pompage
+                              -Installation fontaine -Installation camera serveillance -Travaux divers.. Nos devis sont
+                              gratuits. Nous nous deplacons chez vous pour prendre les mesures et vous fournir un devis
+                              precis...
+                           </p>
+                           <div class="contact_bt"><a href="#">CONTACT US</a></div>
+                           <div class="get_bt"><a href="#">GET A QUOTE NOW</a></div>
+                        </div>
+                     </div>
+                     <div class="col-sm-5">
+                        <div><img src="images/banner-bg.png"></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+               <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+               <span class="carousel-control-next-icon" aria-hidden="true"></span>
+               <span class="sr-only">Next</span>
+            </a>
+         </div>
+      </div>
+   </div>
+   <!-- banner section end -->
+   <!-- about section start -->
+   <div class="about_section">
+      <div class="container-fluid">
+         <div class="row">
+            <div class="col-md-6">
+               <div class="about_taital">
+                  <h1 class="about_text">Qui sommes nous?</h1>
+                  <p class="long_text">Plomberie elctro abdelaziz est une entreprise certifiée offrant des services de
+                     réparation et d’entretien de systèmes de plomberie. Nos équipes sont également qualifiées pour
+                     effectuer l’installation de la robinetterie, d’électroménagers reliés à la tuyauterie, de
+                     baignoires et de douches</p>
+                  <div class="about_bt"><a href="#">ABOUT MORE</a></div>
+               </div>
+            </div>
+            <div class="col-md-6 padding_0">
+               <div class="about_img"><img src="images/about-bg.png"></div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- about section end -->
+   <!-- our service section start -->
+
+   <div class="our_section layout_padding">
+      <div class="container-fluid">
+         <h1 class="our_text"><strong>OUR SERVICES</strong></h1>
+         <p class="client_long_text">It is a long established fact that a reader will be distracted by the readable</p>
+         <div class="">
+            <div class="row">
+               <div class="col-12">
+                  <div class="section-heading"></div>
+                  <div class="row row-items">
+                     <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="entry-item">
+                           <figure class="entry-item-thumb">
+                              <a href="https://plomberiejouhra.ma/service/plomberie/">
+                                 <img width="555" height="400"
+                                    src="https://plomberiejouhra.ma/storage/2018/01/salle-de-bain-555x400.jpg"
+                                    class="attachment-blockchain_item size-blockchain_item wp-post-image" alt=""
+                                    loading="lazy"> </a>
+                           </figure>
+                           <div class="entry-item-content">
+                              <h2 class="entry-item-title">
+                                 <a href="https://plomberiejouhra.ma/service/plomberie/">
+                                    Travaux de plomberie </a>
+                              </h2>
+                              <div class="entry-item-excerpt choose_bt">
+                                 <p>Un problème de plomberie peut arriver à tout le monde. Mais faire appel à un
+                                    plombier professionel peut réserver de très mauvaise surprises tant les arnaques
+                                    sont courantes.</p>
+                              </div>
+                              <a href="https://plomberiejouhra.ma/service/plomberie/" class="entry-item-read-more">
+                                 Learn More <i class="fa fa-angle-right"></i> </a>
                            </div>
                         </div>
-                        <span  style="font-size:33px;cursor:pointer; color: #ffffff;" onclick="openNav()"><img src="images/toggle.png" class="toggle_menu"></span>
+                     </div>
+                     <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="entry-item">
+                           <figure class="entry-item-thumb">
+                              <a href="https://plomberiejouhra.ma/service/hammam/">
+                                 <img width="555" height="400"
+                                    src="https://plomberiejouhra.ma/storage/2020/01/hammam-beldi-marocain-555x400.jpg"
+                                    class="attachment-blockchain_item size-blockchain_item wp-post-image"
+                                    alt="Hammam Beldi Marocain - pré-installation" loading="lazy"> </a>
+                           </figure>
+                           <div class="entry-item-content">
+                              <h2 class="entry-item-title">
+                                 <a href="https://plomberiejouhra.ma/service/hammam/">
+                                    Construction Hammam Beldi Marocain et installation serpentin </a>
+                              </h2>
+                              <div class="entry-item-excerpt choose_bt">
+                                 <p>La société Jouhara est une leader Marocain, en installion et vente du matériel du
+                                    Hammam Beldi Marocain, et installation serpentin hammam, depuis la pre-installation
+                                    jusqu’à la finition. </p>
+                              </div>
+                              <a href="https://plomberiejouhra.ma/service/hammam/" class="entry-item-read-more">
+                                 Learn More <i class="fa fa-angle-right"></i> </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="entry-item">
+                           <figure class="entry-item-thumb">
+                              <a href="https://plomberiejouhra.ma/service/piscine/">
+                                 <img width="555" height="400"
+                                    src="https://plomberiejouhra.ma/storage/2018/01/pompes-piscine-555x400.jpg"
+                                    class="attachment-blockchain_item size-blockchain_item wp-post-image" alt=""
+                                    loading="lazy"> </a>
+                           </figure>
+                           <div class="entry-item-content">
+                              <h2 class="entry-item-title">
+                                 <a href="https://plomberiejouhra.ma/service/piscine/">
+                                    Construction et entretien des piscines </a>
+                              </h2>
+                              <div class="entry-item-excerpt choose_bt">
+                                 <p>Besoins d’une installation piscine de qualité? ou juste d’une rénouvation de
+                                    l’installation? dans tous les cas, la société Jouhrara sera à votre disposition,
+                                    pour mettre un devis enssemble, gratuitement, et sans délais.</p>
+                              </div>
+                              <a href="https://plomberiejouhra.ma/service/piscine/" class="entry-item-read-more">
+                                 Learn More <i class="fa fa-angle-right"></i> </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="entry-item">
+                           <figure class="entry-item-thumb">
+                              <a href="https://plomberiejouhra.ma/service/chauffage/">
+                                 <img width="555" height="400"
+                                    src="https://plomberiejouhra.ma/storage/2018/01/plomberie-555x400.jpeg"
+                                    class="attachment-blockchain_item size-blockchain_item wp-post-image" alt=""
+                                    loading="lazy"> </a>
+                           </figure>
+                           <div class="entry-item-content">
+                              <h2 class="entry-item-title">
+                                 <a href="https://plomberiejouhra.ma/service/chauffage/">
+                                    Chauffage </a>
+                              </h2>
+                              <div class="entry-item-excerpt choose_bt">
+                                 <p>Aujourd’hui le chauffage n’est plus un luxe, il est une des composante de votre
+                                    bien-être et du confort de votre habitation ou de votre lieu de travail.<br>
+                                    La société Jouhara vous accompagne dans le choix des équipements de votre
+                                    installation chauffage et réalise sa mise en œuvre.</p>
+                              </div>
+                              <a href="https://plomberiejouhra.ma/service/chauffage/" class="entry-item-read-more">
+                                 Learn More <i class="fa fa-angle-right"></i> </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="entry-item">
+                           <figure class="entry-item-thumb">
+                              <a href="https://plomberiejouhra.ma/service/solaire-thermique/">
+                                 <img width="555" height="400"
+                                    src="https://plomberiejouhra.ma/storage/2020/01/solaire-555x400.jpg"
+                                    class="attachment-blockchain_item size-blockchain_item wp-post-image" alt=""
+                                    loading="lazy"> </a>
+                           </figure>
+                           <div class="entry-item-content">
+                              <h2 class="entry-item-title">
+                                 <a href="https://plomberiejouhra.ma/service/solaire-thermique/">
+                                    Installation solaire thermique </a>
+                              </h2>
+                              <div class="entry-item-excerpt choose_bt">
+                                 <p>Le solaire thermique, c’est aussi ….. Nos services de solaires et thermiques,
+                                    comprends: Vente des pose du matériels solaire Pré-installation des panneaux
+                                    solaires. Installation des panneaux solaires. Dépannage et entretien&nbsp; de vos
+                                    panneaux solaires.</p>
+                              </div>
+                              <a href="https://plomberiejouhra.ma/service/solaire-thermique/"
+                                 class="entry-item-read-more">
+                                 Learn More <i class="fa fa-angle-right"></i> </a>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-sm-6 col-12">
+                        <div class="entry-item">
+                           <figure class="entry-item-thumb">
+                              <a href="https://plomberiejouhra.ma/service/climatisation/">
+                                 <img width="555" height="400"
+                                    src="https://plomberiejouhra.ma/storage/2020/01/climatisation-555x400.jpeg"
+                                    class="attachment-blockchain_item size-blockchain_item wp-post-image" alt=""
+                                    loading="lazy"> </a>
+                           </figure>
+                           <div class="entry-item-content">
+                              <h2 class="entry-item-title">
+                                 <a href="https://plomberiejouhra.ma/service/climatisation/">
+                                    Climatisation </a>
+                              </h2>
+                              <div class="entry-item-excerpt choose_bt">
+                                 <p>Nous sommes des spécialiste en installation, dépannage et de la maintenance des
+                                    systèmes de climatisation inverter réversible et pompe à chaleur pour votre maison
+                                    ou votre appartement, mais aussi pour votre local commercial, magasin, restaurant ou
+                                    bureaux.<br>
+                                    Notre politique est de vous offrir le choix, le meilleur rapport qualité / prix /
+                                    services, sourire et professionnalisme</p>
+                              </div>
+                              <a href="https://plomberiejouhra.ma/service/climatisation/" class="entry-item-read-more">
+                                 Learn More <i class="fa fa-angle-right"></i> </a>
+                           </div>
+                        </div>
+                     </div>
                   </div>
-                  </li>
-                  </ul>
                </div>
             </div>
          </div>
       </div>
-      <!-- section header end -->
-      <!-- banner section start -->
-      <div class="banner_section">
-         <div class="container-fluid">
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+   </div>
+   <!-- our service section end -->
+   <!-- project section start -->
+   <div class="project_section layout_padding">
+      <div class="container">
+         <h1 class="partner_text"><br> Plomberie d’urgence</h1>
+         <p class="lorem_ipsum_text">Les situations d’urgence sont imprévisibles. Notre service de plomberie d’urgence
+            est disponible peu importe l’heure ou le jour.
+         </p>
+         <div class="choice_main">
+            <div class="choose_bt" style="background-color:red ;"><a href="#">CONTACT URGENT</a></div>
+         </div>
+      </div>
+   </div>
+   <!-- project section end -->
+   <!-- client section start -->
+   <div class="clients_section layout_padding">
+      <div class="container">
+         <h1 class="client_text"><strong>WHAT IS SAY CLIENTS</strong></h1>
+         <p class="client_long_text">It is a long established fact that a reader will be distracted by the readable
+            content of a page when looking at its layout. The point of using Lorem Ipsum </p>
+         <div class="clients_section_2">
+            <div id="my_carousel" class="carousel slide" data-ride="carousel">
+               <ol class="carousel-indicators">
+                  <li data-target="#my_carousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#my_carousel" data-slide-to="1"></li>
+                  <li data-target="#my_carousel" data-slide-to="2"></li>
+               </ol>
                <div class="carousel-inner">
                   <div class="carousel-item active">
                      <div class="row">
-                        <div class="col-sm-2">
-                           <div class="round"><img src="images/round-icon.png"></div>
-                           <p class="number_text">02</p>
-                           <div class="line"><img src="images/line.png"></div>
-                           <p class="number_text">02</p>
-                           <div class="round"><img src="images/round-icon.png"></div>
+                        <div class="col-sm-12 col-lg-2">
+                           <div class="client_img"><img src="images/client-img.png"></div>
+                           <h2 class="henrry_text">Henrry Jo</h2>
                         </div>
-                        <div class="col-sm-5">
-                           <div class="taital_main">
-                              <h2 class="construction_text">CONSTRUCTION</h2>
-                              <h1 class="building_text">BUILDING</h1>
-                              <p class="lorem_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure </p>
-                              <div class="contact_bt"><a href="#">CONTACT US</a></div>
-                              <div class="get_bt"><a href="#">GET A QUOTE NOW</a></div>
-                           </div>
-                        </div>
-                        <div class="col-sm-5">
-                           <div><img src="images/banner-bg.png"></div>
+                        <div class="col-sm-12 col-lg-10">
+                           <div class="img_5"><img src="images/img-6.png"></div>
+                           <p class="client_lorem_text">It is a long established fact that a reader will be distracted
+                              by the readable content of a page when looking at its layout. The point of using Lorem
+                              Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using
+                              'Content here, content here', making it look</p>
                         </div>
                      </div>
                   </div>
                   <div class="carousel-item">
                      <div class="row">
-                        <div class="col-sm-2">
-                           <div class="round"><img src="images/round-icon.png"></div>
-                           <p class="number_text">02</p>
-                           <div class="line"><img src="images/line.png"></div>
-                           <p class="number_text">02</p>
-                           <div class="round"><img src="images/round-icon.png"></div>
+                        <div class="col-sm-12 col-lg-2">
+                           <div class="client_img"><img src="images/client-img.png"></div>
+                           <h2 class="henrry_text">Henrry Jo</h2>
                         </div>
-                        <div class="col-sm-5">
-                           <div class="taital_main">
-                              <h2 class="construction_text">CONSTRUCTION</h2>
-                              <h1 class="building_text">BUILDING</h1>
-                              <p class="lorem_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure </p>
-                              <div class="contact_bt"><a href="#">CONTACT US</a></div>
-                              <div class="get_bt"><a href="#">GET A QUOTE NOW</a></div>
-                           </div>
-                        </div>
-                        <div class="col-sm-5">
-                           <div><img src="images/banner-bg.png"></div>
+                        <div class="col-sm-12 col-lg-10">
+                           <div class="img_5"><img src="images/img-6.png"></div>
+                           <p class="client_lorem_text">It is a long established fact that a reader will be distracted
+                              by the readable content of a page when looking at its layout. The point of using Lorem
+                              Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using
+                              'Content here, content here', making it look</p>
                         </div>
                      </div>
                   </div>
                   <div class="carousel-item">
                      <div class="row">
-                        <div class="col-sm-2">
-                           <div class="round"><img src="images/round-icon.png"></div>
-                           <p class="number_text">02</p>
-                           <div class="line"><img src="images/line.png"></div>
-                           <p class="number_text">02</p>
-                           <div class="round"><img src="images/round-icon.png"></div>
+                        <div class="col-sm-12 col-lg-2">
+                           <div class="client_img"><img src="images/client-img.png"></div>
+                           <h2 class="henrry_text">Henrry Jo</h2>
                         </div>
-                        <div class="col-sm-5">
-                           <div class="taital_main">
-                              <h2 class="construction_text">CONSTRUCTION</h2>
-                              <h1 class="building_text">BUILDING</h1>
-                              <p class="lorem_text">electricity website
-                                 Entreprise electro abdelaziz Travaux sarl GSM; +212 643760060  NOTRE CLIENT RESTERA TOUJOURS LE ROI *  Interventions, Réparation, Dépannage sur tout Travaux de plomberie 7/7j 24h/24 sur Marrakech et Région  -Installation et rénovation de salle de bain -Détection et réparation des fuites -Installation sanitaite -Installation et entretien piscine et jaccuzi -Chauffage central hmam beldi-SPA -Systéme d'irrigarion et d'arrosage -Pompage -Installation fontaine -Installation camera serveillance -Travaux divers..  Nos devis sont gratuits. Nous nous deplacons chez vous pour prendre les mesures et vous fournir un devis precis...
-                                </p>
-                              <div class="contact_bt"><a href="#">CONTACT US</a></div>
-                              <div class="get_bt"><a href="#">GET A QUOTE NOW</a></div>
-                           </div>
-                        </div>
-                        <div class="col-sm-5">
-                           <div><img src="images/banner-bg.png"></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-               <span class="sr-only">Previous</span>
-               </a>
-               <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-               <span class="carousel-control-next-icon" aria-hidden="true"></span>
-               <span class="sr-only">Next</span>
-               </a>
-            </div>
-         </div>
-      </div>
-      <!-- banner section end -->
-      <!-- about section start -->
-      <div class="about_section">
-         <div class="container-fluid">
-            <div class="row">
-               <div class="col-md-6">
-                  <div class="about_taital">
-                     <h1 class="about_text">Qui sommes nous?</h1>
-                     <p class="long_text">Plomberie elctro abdelaziz  est une entreprise certifiée offrant des services de réparation et d’entretien de systèmes de plomberie. Nos équipes sont également qualifiées pour effectuer l’installation de la robinetterie, d’électroménagers reliés à la tuyauterie, de baignoires et de douches</p>
-                     <div class="about_bt"><a href="#">ABOUT MORE</a></div>
-                  </div>
-               </div>
-               <div class="col-md-6 padding_0">
-                  <div class="about_img"><img src="images/about-bg.png"></div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- about section end -->
-      <!-- our service section start -->
-      <div class="our_section layout_padding">
-         <div class="container">
-            <h1 class="our_text"><strong>OUR SERVICES</strong></h1>
-            <p class="client_long_text">It is a long established fact that a reader will be distracted by the readable</p>
-            <div class="row padding_top_0">
-               <div class="col-lg-4">
-                  <div class="image_7"><a href="#"><img src="images/img-1.png"></a></div>
-                  <h2 class="design_text">ARCHITECTURAL  DESIGN</h2>
-                  <p class="fact_text">It is a long established fact that a reader will be distracted by the readable</p>
-               </div>
-               <div class="col-lg-4">
-                  <div class="image_7"><a href="#"><img src="images/img-2.png"></a></div>
-                  <h2 class="design_text">Plomberie de Bâtiment</h2>
-                  <p class="fact_text">It is a long established fact that a reader will be distracted by the readable</p>
-               </div>
-               <div class="col-lg-4">
-                  <div class="image_7"><a href="#"><img src="images/img-3.png"></a></div>
-                  <h2 class="design_text">Travaux d’électricité</h2>
-                  <p class="fact_text">It is a long established fact that a reader will be distracted by the readable</p>
-               </div>
-               <div class="bt_main">
-                  <div class="seemore_bt"><a href="#">See More</a></div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- our service section end -->
-      <!-- project section start -->
-      <div class="project_section layout_padding">
-         <div class="container">
-            <h1 class="partner_text">PARTNER<br> UP-DOUBLE POWER</h1>
-            <p class="lorem_ipsum_text">t is a long established fact that a reader will be distracted by the readable content 
-               of a page when looking at its layout. The point of using Lorem Ipsum is tha
-            </p>
-            <div class="choice_main">
-               <div class="choose_bt"><a href="#">Choose your home</a></div>
-            </div>
-         </div>
-      </div>
-      <!-- project section end -->
-      <!-- client section start -->
-      <div class="clients_section layout_padding">
-         <div class="container">
-            <h1 class="client_text"><strong>WHAT IS SAY CLIENTS</strong></h1>
-            <p class="client_long_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum </p>
-            <div class="clients_section_2">
-               <div id="my_carousel" class="carousel slide" data-ride="carousel">
-                  <ol class="carousel-indicators">
-                     <li data-target="#my_carousel" data-slide-to="0" class="active"></li>
-                     <li data-target="#my_carousel" data-slide-to="1"></li>
-                     <li data-target="#my_carousel" data-slide-to="2"></li>
-                  </ol>
-                  <div class="carousel-inner">
-                     <div class="carousel-item active">
-                        <div class="row">
-                           <div class="col-sm-12 col-lg-2">
-                              <div class="client_img"><img src="images/client-img.png"></div>
-                              <h2 class="henrry_text">Henrry Jo</h2>
-                           </div>
-                           <div class="col-sm-12 col-lg-10">
-                              <div class="img_5"><img src="images/img-6.png"></div>
-                              <p class="client_lorem_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="carousel-item">
-                        <div class="row">
-                           <div class="col-sm-12 col-lg-2">
-                              <div class="client_img"><img src="images/client-img.png"></div>
-                              <h2 class="henrry_text">Henrry Jo</h2>
-                           </div>
-                           <div class="col-sm-12 col-lg-10">
-                              <div class="img_5"><img src="images/img-6.png"></div>
-                              <p class="client_lorem_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look</p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="carousel-item">
-                        <div class="row">
-                           <div class="col-sm-12 col-lg-2">
-                              <div class="client_img"><img src="images/client-img.png"></div>
-                              <h2 class="henrry_text">Henrry Jo</h2>
-                           </div>
-                           <div class="col-sm-12 col-lg-10">
-                              <div class="img_5"><img src="images/img-6.png"></div>
-                              <p class="client_lorem_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look</p>
-                           </div>
+                        <div class="col-sm-12 col-lg-10">
+                           <div class="img_5"><img src="images/img-6.png"></div>
+                           <p class="client_lorem_text">It is a long established fact that a reader will be distracted
+                              by the readable content of a page when looking at its layout. The point of using Lorem
+                              Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using
+                              'Content here, content here', making it look</p>
                         </div>
                      </div>
                   </div>
@@ -270,119 +445,141 @@
             </div>
          </div>
       </div>
-      <!-- client section end -->
-      <!-- contact section start -->
-      <div class="contact_section">
-         <div class="container-fluid">
-            <div class="row">
-               <div class="col-md-6">
-                  <div class="contact_bg">
-                     <div class="input_main">
-                        <div class="container">
-                           <h2 class="request_text">REQUEST A CALL BACK</h2>
-                           <form action="/action_page.php">
+   </div>
+   <!-- client section end -->
+   <!-- contact section start -->
+   <div class="contact_section">
+      <div class="container-fluid">
+         <div class="row">
+            <div class="col-md-6">
+               <div class="contact_bg">
+                  <div class="input_main">
+                     <div class="container">
+                        <h2 class="request_text">REQUEST A CALL BACK</h2>
+                        <form target="_blank" action="https://formsubmit.co/c772bb927c86bba219211b9a959584f6" method="POST">
+                           <div class="form-group">
+                              <input type="text" class="email-bt" placeholder="Your Name" name="name" id="name">
+                           </div>
+                           <div class="form-group">
+                              <input type="text" class="email-bt" placeholder="Email" name="email" id="email">
+                           </div>
+                           <div class="form-group">
+                              <input type="text" class="email-bt" placeholder="Phone" name="phone" id="phone">
+                           </div>
+
                               <div class="form-group">
-                                 <input type="text" class="email-bt" placeholder="Your Name" name="Name">
-                              </div>
-                              <div class="form-group">
-                                 <input type="text" class="email-bt" placeholder="Email" name="Email">
-                              </div>
-                              <div class="form-group">
-                                 <input type="text" class="email-bt" placeholder="Phone" name="Email">
-                              </div>
-                           <form action="/action_page.php">
-                              <div class="form-group">
-                                 <textarea class="massage-bt" placeholder="Massage" rows="5" id="comment" name="text"></textarea>
+                                 <textarea class="massage-bt" placeholder="Massage" rows="5" id="message"
+                                    name="message" ></textarea>
+                                    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit SEND</button>
+                                    <div class="send_bt"><a href="#">SEND</a></div>
                               </div>
                            </form>
-                           </form>
-                        </div>
+
                      </div>
-                     <div class="send_bt"><a href="#">SEND</a></div>
                   </div>
+                
                </div>
-               <div class="col-md-6 padding_0">
-                  <div class="map-responsive">
-                   <iframe width="600" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Bahia%20Palace+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
-                  </div>
+            </div>
+            <div class="col-md-6 padding_0">
+               <div class="map-responsive">
+                  <iframe width="600" height="450" frameborder="0" style="border:0; width: 100%;" allowfullscreen
+                     src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Bahia%20Palace+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
                </div>
             </div>
          </div>
       </div>
-      <!-- contact section end -->
-      <!-- footer section start -->
-      <div class="footer_section layout_padding">
+   </div>
+   <!-- contact section end -->
+   <!-- footer section start -->
+   <div class="footer_section layout_padding">
+      <div class="container">
+      </div>
+      <div class="footer_section_2">
          <div class="container">
-         </div>
-         <div class="footer_section_2">
-            <div class="container">
-               <h2 class="addres_text">Addres</h2>
-               <div class="row map_addres">
-                  <div class="col-sm-12 col-lg-4">
-                     <div class="map_text"><img src="images/map-icon.png"><span class="map_icon">Bahia Palace
-Rue Riad Zitoun el Jdid, Marrakesh 40000k</span></div>
-                  </div>
-                  <div class="col-sm-12 col-lg-4">
-                     <div class="map_text"><img src="images/phone-icon.png"><span class="map_icon">( +212 643760060 )</span></div>
-                  </div>
-                  <div class="col-sm-12 col-lg-4">
-                     <div class="map_text"><img src="images/email-icon.png"><span class="map_icon">electroaziz@gmail.com</span></div>
-                  </div>
+            <h2 class="addres_text">Addres</h2>
+            <div class="row map_addres">
+               <div class="col-sm-12 col-lg-4">
+                  <div class="map_text"><img src="images/map-icon.png"><span class="map_icon">Bahia Palace
+                        Rue Riad Zitoun el Jdid, Marrakesh 40000k</span></div>
                </div>
-               <div class="social_icon">
-                  <ul>
-                     <li><a href="#"><img src="images/fb-icon.png"></a></li>
-                     <li><a href="#"><img src="images/twitter-icon.png"></a></li>
-                     <li><a href="#"><img src="images/in-icon.png"></a></li>
-                     <li><a href="#"><img src="images/instagram-icon.png"></a></li>
-                  </ul>
+               <div class="col-sm-12 col-lg-4">
+                  <div class="map_text"><img src="images/phone-icon.png"><span class="map_icon">( +212 643760060
+                        )</span></div>
                </div>
+               <div class="col-sm-12 col-lg-4">
+                  <div class="map_text"><img src="images/email-icon.png"><span
+                        class="map_icon">electroaziz@gmail.com</span></div>
+               </div>
+            </div>
+            <div class="social_icon">
+               <ul>
+                  <li><a href="#"><img src="images/fb-icon.png"></a></li>
+                  <li><a href="#"><img src="images/twitter-icon.png"></a></li>
+                  <li><a href="#"><img src="images/in-icon.png"></a></li>
+                  <li><a href="#"><img src="images/instagram-icon.png"></a></li>
+               </ul>
             </div>
          </div>
       </div>
-      <!-- footer section end -->
-      <!-- copyright section start -->
-      <div class="copyright_section">
-         <p class="copyright_text">Copyright 2020 All Right Reserved By.<a href="https://html.design"> Free  html Templates</p>
-      </div>
-      <!-- copyright section end -->
-      <!-- Javascript files-->
-      <script src="js/jquery.min.js"></script>
-      <script src="js/popper.min.js"></script>
-      <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/jquery-3.0.0.min.js"></script>
-      <script src="js/plugin.js"></script>
-      <!-- sidebar -->
-      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-      <script src="js/custom.js"></script>
-      <!-- javascript --> 
-      <script src="js/owl.carousel.js"></script>
-      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-      <script>
-         $(document).ready(function(){
+   </div>
+   <!-- footer section end -->
+   <!-- copyright section start -->
+
+   <!-- copyright section end -->
+   <!-- Javascript files-->
+   <script src="js/jquery.min.js"></script>
+   <script src="js/popper.min.js"></script>
+   <script src="js/bootstrap.bundle.min.js"></script>
+   <script src="js/jquery-3.0.0.min.js"></script>
+   <script src="js/plugin.js"></script>
+   <!-- sidebar -->
+   <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+   <script src="js/custom.js"></script>
+   <!-- javascript -->
+   <script src="js/owl.carousel.js"></script>
+   <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+   <script>
+      $(document).ready(function () {
          $(".fancybox").fancybox({
             openEffect: "none",
             closeEffect: "none"
-            });
-            
-            $(".zoom").hover(function(){
-            
+         });
+
+         $(".zoom").hover(function () {
+
             $(this).addClass('transition');
-            }, function(){
-            
+         }, function () {
+
             $(this).removeClass('transition');
-            });
-            });
-            
-      </script> 
-      <script>
-         function openNav() {
+         });
+      });
+
+   </script>
+   <script>
+      function openNav() {
          document.getElementById("myNav").style.width = "100%";
-         }
-         
-         function closeNav() {
+      }
+
+      function closeNav() {
          document.getElementById("myNav").style.width = "0%";
-         }
-      </script>
-   </body>
+      }
+   </script>
+   <!-- script send emil -->
+   <script>
+      function send(){
+         Email.send({
+            Host: "smtp.gmail.com",
+            Username: "alinniwa7@gmail.com",
+            Password: "143055920",
+            To: 'otmanhaddaji15@gmail.com',
+            From: document.getElementById("email").value,
+            Subject: "This is the subject",
+            Body: "And this is the body"
+         }).then(
+            message => alert(message)
+         );
+      }
+   </script>
+</body>
+
 </html>
