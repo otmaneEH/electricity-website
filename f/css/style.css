@@ -727,7 +727,7 @@ textarea#comment.massage-bt::placeholder {
     color: #fffcf4;
 }
 
-.send_bt a {
+.send_bt  {
     width: 30%;
     float: left;
     background-color: #041d2c;
@@ -739,12 +739,12 @@ textarea#comment.massage-bt::placeholder {
     margin-left: 10px;
 }
 
-.send_bt a {
+.send_bt  {
     color: #fffdf6;
     background-color: #041d2c;
 }
 
-.send_bt a:hover {
+.send_bt :hover {
     color: #000;
     background-color: #ffffff;
 }
